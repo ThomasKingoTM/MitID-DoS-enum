@@ -1,0 +1,15 @@
+1667549232267	geckodriver	INFO	Listening on 127.0.0.1:49634
+1667549232637	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "--marionette" "--remote-debugging-port" "49635" "-foreground" "-no-remote" "-profile" "/var/folders/96/2m30vws53n35pjw7yyyhqt1h0000gn/T/rust_mozprofileonK5wD"
+1667549237861	Marionette	INFO	Marionette enabled
+2022-11-04 09:07:17.965 plugin-container[1600:21934] nil host used in call to allowsSpecificHTTPSCertificateForHost
+2022-11-04 09:07:17.965 plugin-container[1600:21934] nil host used in call to allowsAnyHTTPSCertificateForHost:
+1667549238070	Marionette	INFO	Listening on port 49642
+2022-11-04 09:07:18.354 plugin-container[1600:21934] nil host used in call to allowsSpecificHTTPSCertificateForHost
+2022-11-04 09:07:18.354 plugin-container[1600:21934] nil host used in call to allowsAnyHTTPSCertificateForHost:
+2022-11-04 09:07:18.356 plugin-container[1600:21938] nil host used in call to allowsSpecificHTTPSCertificateForHost
+2022-11-04 09:07:18.372 plugin-container[1600:21938] nil host used in call to allowsAnyHTTPSCertificateForHost:
+WebDriver BiDi listening on ws://127.0.0.1:49635
+1667549238573	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /var/folders/96/2m30vws53n35pjw7yyyhqt1h0000gn/T/rust_mozprofileonK5wD/search.json.mozlz4", (void 0)))
+DevTools listening on ws://127.0.0.1:49635/devtools/browser/3da1b071-50ad-4e5f-91d1-df3380e678ef
+JavaScript error: https://www.mitid.dk/mitid-administrative-idp/oauth/mitid-login, line 95: SyntaxError: JSON.parse: unexpected character at line 1 column 1 of the JSON data
